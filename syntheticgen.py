@@ -214,5 +214,3 @@ def generate_synthetic_orbit(
         r_peri=r_peri,
         r_apo=r_apo,
     )
-
-    
